@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fanny</h1>
 <h3 align="center">A middle-aged student in web development from France</h3>
 
+<div align="center">
+      <img src=" https://media.giphy.com/media/3og0IQIYKko379RnAA/giphy.gif" width="480" height="480" />
+</div>
+
 - 🔭 I’m currently working on **a copy of Twitter**
 
 - 🌱 I’m currently learning **nodejs and everythings about front or back**

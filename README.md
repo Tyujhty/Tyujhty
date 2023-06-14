@@ -9,9 +9,9 @@
 ### :woman_technologist: ABOUT ME :
 I'm a student in web development since November 2022.
 
-- :telescope: I’m currently working on **a copy of Twitter**
+- :telescope: I’m currently working on **progica and my portfolio**
 
-- 🌱 I’m currently learning **nodejs** and **everythings about front or back**
+- 🌱 I’m currently learning **symfony and REACT** and **everythings about front or back**
 
 - 📫 How to reach me **fannybaquey@prontonmail.com**
 

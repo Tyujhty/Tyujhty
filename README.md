@@ -2,7 +2,7 @@
 <h3 align="center">A middle-aged student in web development from France</h3>
 
 <div align="center">
-      <[img src="https://media.giphy.com/media/3og0IQIYKko379RnAA/giphy.gif" width="480" height="480" />](https://www.canva.com/design/DAFlxjFwRiI/MpSrAjwJhl20jAyYemEHOQ/edit?utm_content=DAFlxjFwRiI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+      <img src="https://media.giphy.com/media/3og0IQIYKko379RnAA/giphy.gif" width="480" height="480" />
 </div>
 
 ---

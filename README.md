@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fanny</h1>
-<h3 align="center">A middle-aged student in web development from France</h3>
+<h3 align="center">A 30's graduated in web development from France</h3>
 
 <div align="center">
       <img src="https://media.giphy.com/media/3og0IQIYKko379RnAA/giphy.gif" width="480" height="480" />
@@ -7,11 +7,11 @@
 
 ---
 ### :woman_technologist: ABOUT ME :
-I'm a student in web development since November 2022.
+I graduated in October 2023.
 
-- 🔭 I’m currently working on [my portfolio](https://www.fannybaquey.com/)
+- 🔭 I’m currently working on [my portfolio](https://www.fannybaquey.com/) and [A simple Javascript Bot](https://github.com/Tyujhty/chatbotJS)
 
-- 🌱 I’m currently learning **Symfony and REACT**
+- 🌱 I’m currently learning **Symfony, React and Javascript**
 
 - 👯 I’m looking to work-study placement on **Symfony and/or Laravel and/or REACT**
 

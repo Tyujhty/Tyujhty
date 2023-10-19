@@ -9,7 +9,7 @@
 ### :woman_technologist: ABOUT ME :
 I graduated in October 2023.
 
-- 🔭 I’m currently working on [my portfolio](https://www.fannybaquey.com/) and [A simple Javascript Bot](https://github.com/Tyujhty/chatbotJS)
+- 🔭 I’m currently working on a MERN Stack Chatbot
 
 - 🌱 I’m currently learning **Symfony, React and Javascript**
 

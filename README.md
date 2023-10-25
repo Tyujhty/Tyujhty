@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fanny</h1>
 <h3 align="center">A 30's graduated in web development from France</h3>
+
 ---
+
 ### :woman_technologist: ABOUT ME :
 I graduated in October 2023.
 

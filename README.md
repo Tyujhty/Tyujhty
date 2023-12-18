@@ -6,9 +6,9 @@
 ### :woman_technologist: ABOUT ME :
 I graduated in October 2023.
 
-- 🔭 I’m currently working on a [MERN Stack Chatbot](https://github.com/Tyujhty/mern-chatIA)
+- 🔭 I’m currently working on a **100 days of coding in Python**, follow my journey in Python's world !
 
-- 🌱 I’m currently learning **NodeJS, React and Javascript**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to work-study placement on **Symfony and/or Laravel and/or REACT**
 

@@ -16,8 +16,6 @@ I'm praparing my master degree.
 
 - 📫 How to reach me **fanny.baquey@protonmail.com**
 
-- 📄 Know about my experiences [https://s.42l.fr/resume](https://s.42l.fr/resume)
-
 - ⚡ Fun fact **I'm a Dark Soul's fan addict, is it a good point ?**
 
 <h3 align="left">:vulcan_salute: CONNECT WITH ME :</h3>

@@ -4,13 +4,13 @@
 ---
 
 ### :woman_technologist: ABOUT ME :
-I graduated in October 2023.
+I'm praparing my master degree.
 
-- 🔭 I’m currently working on a **100 days of coding in Python**, follow my journey in Python's world !
+- 🔭 I’m currently working on a **React, NestJs and Express.Js** !
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **CI/CD**
 
-- 👯 I’m looking to work-study placement on **Symfony and/or Laravel and/or REACT**
+- 👯 I’m looking to work-study placement on **React, Symfony, Python, NestJs !**
 
 - 👨‍💻 All of my projects are available at [https://www.fannybaquey.com/](https://www.fannybaquey.com/)
 

@@ -4,15 +4,12 @@
 ---
 
 ### :woman_technologist: ABOUT ME :
-I'm praparing my master degree.
 
-- 🔭 I’m currently working on a **React, NestJs and Express.Js** !
+Intern in Front-End
+
+- 🔭 I’m currently working on a **React, NextJs, Storybook** !
 
 - 🌱 I’m currently learning **CI/CD**
-
-- 👯 I’m looking to work-study placement on **React, Symfony, Python, NestJs !**
-
-- 👨‍💻 All of my projects are available at [https://www.fannybaquey.com/](https://www.fannybaquey.com/)
 
 - 📫 How to reach me **fanny.baquey@protonmail.com**
 

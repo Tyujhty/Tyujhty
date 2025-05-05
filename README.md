@@ -7,18 +7,13 @@
 
 Intern in Front-End
 
-- 🔭 I’m currently working on a **React, NextJs, Storybook** !
+- 🔭 I’m currently working on projects based on **JavaScript** !
 
 - 🌱 I’m currently learning **CI/CD**
 
 - 📫 How to reach me **fanny.baquey@protonmail.com**
 
 - ⚡ Fun fact **I'm a Dark Soul's fan addict, is it a good point ?**
-
-<h3 align="left">:vulcan_salute: CONNECT WITH ME :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fanny-baquey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fanny-baquey" height="30" width="40" /></a>
-</p>
 
 ---
 
